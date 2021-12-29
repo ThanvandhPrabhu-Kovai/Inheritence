@@ -27,9 +27,6 @@ namespace Inheritance
             Console.Write("\n\nMoving...at {0} kmph", speed);
         }
 
-
-
-
     }
 
     class Bike : Vehicle
