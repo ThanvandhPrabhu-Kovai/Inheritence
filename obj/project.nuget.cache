@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lceP23eJa3LP04w0t89Z7IhT9vgjLAKvg4qMDiNnGs8uNxaPqqJr8nN6WUQDfoQiKix3XIpq2ZmiMpxRiH6ZZA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Kovai.Co\\Internship\\DotNet\\Console\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanvandh Prabhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

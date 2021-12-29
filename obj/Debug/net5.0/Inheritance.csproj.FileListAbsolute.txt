@@ -1,0 +1,16 @@
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
